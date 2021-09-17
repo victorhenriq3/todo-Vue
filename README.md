@@ -12,7 +12,7 @@ Simple To Do project in Vuejs
 git clone https://github.com/victorhenriq3/todo-Vue.git
 cd todo-Vue
 ```
-# Install dependeces
+# Install dependencies
 ```shell
 npm install
 ```
